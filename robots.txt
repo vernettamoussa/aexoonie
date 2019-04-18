@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://naothohth.perfidix.org/sitemap.xml
